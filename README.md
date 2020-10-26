@@ -1,2 +1,4 @@
 # Cryptology
-A repo. for understanding and implementing the cryptography 
+A repo. for understanding and implementing the cryptography  
+
+## [Practicals](./Practicals)
