@@ -19,5 +19,5 @@ m = p1^a1 x p2^a2 x p3^a3 x .... x pn^an
 * m = p1^b1 x p2^b2 x p3^b3 x .... x pn^bn  
 
 ### LCM  
-As: ```mn = p1^a1 x p1Ya2 x ....```
+As: ```mn = p1^a1 x p1Ya2 x ....```  
 **LCM(m,n)** = mn / GCD(m,n)
