@@ -11,7 +11,7 @@ m = p1^a1 x p2^a2 x p3^a3 x .... x pn^an
 ### GCD by Prime Factorization
 **GCD(m,n)** = p1(min{a1, b1}) x p2(min{a2, b2}) x p3(min{a3, b3}) x .... x pn(min{an, bn})  
 * m = p1^a1 x p2^a2 x p3^a3 x .... x pn^an  
-* m = p1^b1 x p2^b2 x p3^b3 x .... x pn^bn  
+* n = p1^b1 x p2^b2 x p3^b3 x .... x pn^bn  
 
 ### LCM by Prime Factorization
 **LCM(m,n)** = p1(max{a1, b1}) x p2(max{a2, b2}) x p3(max{a3, b3}) x .... x pn(max{an, bn})  
