@@ -1,5 +1,4 @@
-<h1><b>CHAPTER ONE</b></h1>
-<h3>Sephie</h3>
+3>
 <pre>
 I hear my wh*te noise app cut off on my phone and my alarm slowly getting louder. I wait for the chiming bells to stop before I roll over and hit the screen. With a deep breath, I muster the energy to get out of bed and drag myself to the shower.
 Another glorious day in the life of waiting tables. I stop myself from skipping to the shower I’m so excited at the prospect of being yelled at by angry customers again today. People are just cranky lately.
